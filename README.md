@@ -60,3 +60,24 @@ Feel free to reach out for project collaborations or interesting data challenges
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sh-nasib&hide=jupyter,css,scss,html,c,makefile,dockerfile,shell,cmake&theme=default#gh-light-mode-only" alt="Top Langs (light)" style="display:inline-block;" />
 
 </div>
+
+
+<div align="center">
+
+<!-- Темная тема -->
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
+  <img src="https://github-readme-stats.vercel.app/api?username=sh-nasib&show_icons=true&theme=dark#gh-dark-mode-only" alt="Sh-Nasib's GitHub stats (dark)" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sh-nasib&hide=jupyter,css,scss,html,c,makefile,dockerfile,shell,cmake&theme=dark#gh-dark-mode-only" alt="Top Langs (dark)" />
+</a>
+
+<!-- Светлая тема -->
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
+  <img src="https://github-readme-stats.vercel.app/api?username=sh-nasib&show_icons=true&theme=default#gh-light-mode-only" alt="Sh-Nasib's GitHub stats (light)" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sh-nasib&hide=jupyter,css,scss,html,c,makefile,dockerfile,shell,cmake&theme=default#gh-light-mode-only" alt="Top Langs (light)" />
+</a>
+
+</div>
