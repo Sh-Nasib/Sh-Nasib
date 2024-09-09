@@ -29,40 +29,7 @@
 
 <br />
 <br />
-
-
-
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sh-nasib&show_icons=true&hide_border=true" />
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sh-nasib&hide=jupyter,css,scss,html,c,makefile,dockerfile,shell,cmake)](https://github.com/anuraghazra/github-readme-stats)
-
-### 🤝 Open to Collaborations
-Feel free to reach out for project collaborations or interesting data challenges! I'm always happy to learn and contribute.
-
-
-<!-- Темная тема -->
-![Sh-Nasib's GitHub stats (dark)](https://github-readme-stats.vercel.app/api?username=sh-nasib&show_icons=true&theme=dark#gh-dark-mode-only) | [![Top Langs (dark)](https://github-readme-stats.vercel.app/api/top-langs/?username=sh-nasib&hide=jupyter,css,scss,html,c,makefile,dockerfile,shell,cmake&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats) |
-|:--:|:--:|
-
-<!-- Светлая тема -->
-| ![Sh-Nasib's GitHub stats (light)](https://github-readme-stats.vercel.app/api?username=sh-nasib&show_icons=true&theme=default#gh-light-mode-only) | [![Top Langs (light)](https://github-readme-stats.vercel.app/api/top-langs/?username=sh-nasib&hide=jupyter,css,scss,html,c,makefile,dockerfile,shell,cmake&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats) |
-|:--:|:--:|
-
-
 <div align="left">
-
-<!-- Темная тема -->
-<img src="https://github-readme-stats.vercel.app/api?username=sh-nasib&show_icons=true&theme=dark#gh-dark-mode-only" alt="Sh-Nasib's GitHub stats (dark)" style="display:inline-block; margin-right: 10px;" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sh-nasib&hide=jupyter,css,scss,html,c,makefile,dockerfile,shell,cmake&theme=dark#gh-dark-mode-only" alt="Top Langs (dark)" style="display:inline-block;" />
-
-<!-- Светлая тема -->
-<img src="https://github-readme-stats.vercel.app/api?username=sh-nasib&show_icons=true&theme=default#gh-light-mode-only" alt="Sh-Nasib's GitHub stats (light)" style="display:inline-block; margin-right: 10px;" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sh-nasib&hide=jupyter,css,scss,html,c,makefile,dockerfile,shell,cmake&theme=default#gh-light-mode-only" alt="Top Langs (light)" style="display:inline-block;" />
-
-</div>
-
-
-<div align="center">
 
 <!-- Темная тема -->
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
@@ -81,3 +48,6 @@ Feel free to reach out for project collaborations or interesting data challenges
 </a>
 
 </div>
+### 🤝 Open to Collaborations
+Feel free to reach out for project collaborations or interesting data challenges! I'm always happy to learn and contribute.
+
