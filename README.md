@@ -48,6 +48,7 @@
 </a>
 
 </div>
+
 ### 🤝 Open to Collaborations
 Feel free to reach out for project collaborations or interesting data challenges! I'm always happy to learn and contribute.
 
