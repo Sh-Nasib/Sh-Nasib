@@ -1,6 +1,5 @@
 ### Hi there, I'm Shahin Nasibov - Sh-Nasib 👋
 
-## I'm a Data Analyst!
 - 💼 I am currently looking for a job as a Data Analyst
 - 📊 Data Analyst | Python | SQL | Machine Learning
 - 🚀 Turning data into solutions
