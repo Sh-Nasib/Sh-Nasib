@@ -1,7 +1,7 @@
 ### Hi there, I'm Shahin Nasibov - Sh-Nasib 👋
 
 - 💼 I am currently looking for a job as a Data Analyst
-- 📊 Data Analyst | Python | SQL | Machine Learning
+- 📊 Python | SQL | Machine Learning
 - 🚀 Turning data into solutions
 
 ### Connect with me: [https://t.me/sh1nasib](https://t.me/sh1nasib) <img align="text-top" alt="sh-nasib | telegram" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/telegram/telegram.png"> <br />
