@@ -1,17 +1,6 @@
 ### Hi there, I'm Shahin Nasibov - Sh-Nasib 👋
 
-- 💼 I am currently looking for a job as a Data Analyst
-- 📊 Python | SQL | Machine Learning
-- 🚀 Turning data into solutions
-
 ### Connect with me: [https://t.me/sh1nasib](https://t.me/sh1nasib) <img align="text-top" alt="sh-nasib | telegram" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/telegram/telegram.png"> <br />
-### Technical Skills:
-- Languages: Python, SQL, JavaScript
-- Data Analysis & Visualization: Pandas, NumPy, Matplotlib, Seaborn, Plotly
-- Machine Learning: Scikit-learn, TensorFlow
-- Databases: PostgreSQL
-- BI Tools: Power BI, Tableau
-- Other: Git, Jupyter Notebooks, DBeaver
 
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
@@ -48,5 +37,4 @@
 </div>
 
 ### 🤝 Open to Collaborations
-Feel free to reach out for project collaborations or interesting data challenges! I'm always happy to learn and contribute.
 
