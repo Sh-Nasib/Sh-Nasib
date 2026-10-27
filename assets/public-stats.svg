@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="210" viewBox="0 0 1000 210" role="img" aria-labelledby="title desc">
+  <title id="title">Sh-Nasib: публичные репозитории и звёзды</title>
+  <desc id="desc">17 публичных репозиториев, 50 звёзд. Форки, архивы и закрытые репозитории исключены. Обновлено 2026-10-27 UTC.</desc>
+  <style>
+    .surface { fill: #f6f8fa; stroke: #d8dee4; }
+    .title { fill: #57606a; }
+    .number { fill: #162b38; }
+    .accent { fill: #087f5b; }
+    @media (prefers-color-scheme: dark) {
+      .surface { fill: #0d1725; stroke: #2b3a4c; }
+      .title { fill: #a6b8cb; }
+      .number { fill: #f0f6fc; }
+      .accent { fill: #6ee7b7; }
+    }
+  </style>
+  <rect class="surface" x=".5" y=".5" width="999" height="209" rx="18"/>
+  <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif">
+    <text class="accent" x="30" y="34" font-size="12" letter-spacing="2">PUBLIC GITHUB SNAPSHOT</text>
+    <text class="title" x="970" y="34" text-anchor="end" font-size="12">2026-10-27 UTC</text>
+    <text class="number" x="30" y="112" font-size="52" font-weight="700">17</text>
+    <text class="title" x="30" y="142" font-size="17">Публичных репозиториев</text>
+    <path d="M480 64v88" stroke="#8b949e" stroke-opacity=".3"/>
+    <text class="number" x="520" y="112" font-size="52" font-weight="700">50</text>
+    <text class="title" x="520" y="142" font-size="17">Звёзд на этих репозиториях</text>
+    <text class="title" x="30" y="184" font-size="12">Источник: GitHub REST API · Только Sh-Nasib · Без форков и архивов</text>
+  </g>
+</svg>

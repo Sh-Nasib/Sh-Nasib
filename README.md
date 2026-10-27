@@ -1,40 +1,36 @@
-### Hi there, I'm Shahin Nasibov - Sh-Nasib 👋
+<p align="center">
+  <img src="./assets/header.svg" width="100%" alt="Shahin Nasibov · Full-stack development &amp; data analytics" />
+</p>
 
-### Connect with me: [https://t.me/sh1nasib](https://t.me/sh1nasib) <img align="text-top" alt="sh-nasib | telegram" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/telegram/telegram.png"> <br />
+<p align="center">
+  <a href="https://t.me/sh1nasib">Telegram</a>
+  &nbsp;·&nbsp;
+  <a href="mailto:sh.mamedovich@yandex.ru">Email</a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/Sh-Nasib?tab=repositories">GitHub</a>
+</p>
 
-<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="PostgreSQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="DBeaver" width="26px" src="https://avatars.githubusercontent.com/u/34743864?s=48&v=4" />
-<img align="left" alt="Jupyter" width="26px" src="https://raw.githubusercontent.com/github/explore/a4691f04ff219c1c2aa02fc61fda41aa43f1459a/topics/jupyter-notebook/jupyter-notebook.png" />
-<img align="left" alt="scikit-lear" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+### Привет, я Шахин
 
-<br />
-<br />
-<div align="left">
+Разработка веб-приложений и аналитика данных. Мой основной стек — **Python, TypeScript и SQL**: от интерфейсов и API до структуры данных, исследований и визуализации.
 
-<!-- Темная тема -->
-<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-  <img src="https://github-readme-stats.vercel.app/api?username=sh-nasib&show_icons=true&theme=dark#gh-dark-mode-only" alt="Sh-Nasib's GitHub stats (dark)" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sh-nasib&hide=jupyter,css,scss,html,c,makefile,dockerfile,shell,cmake&theme=dark#gh-dark-mode-only" alt="Top Langs (dark)" />
-</a>
+### Технологии и навыки
 
-<!-- Светлая тема -->
-<a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-  <img src="https://github-readme-stats.vercel.app/api?username=sh-nasib&show_icons=true&theme=default#gh-light-mode-only" alt="Sh-Nasib's GitHub stats (light)" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sh-nasib&hide=jupyter,css,scss,html,c,makefile,dockerfile,shell,cmake&theme=default#gh-light-mode-only" alt="Top Langs (light)" />
-</a>
+| Направление | Инструменты и подходы |
+| :--- | :--- |
+| **Frontend** | TypeScript · JavaScript · React · Next.js · Tailwind CSS · HTML · CSS |
+| **Backend** | Python · FastAPI · Node.js · REST API |
+| **Данные** | PostgreSQL · SQL · моделирование и нормализация данных · оптимизация запросов |
+| **Аналитика** | pandas · NumPy · Jupyter · визуализация данных · A/B-тесты · Tableau |
+| **Интеграции** | 1С · обмен данными · обработка Excel · автоматизация |
+| **Инфраструктура** | Linux · Nginx · PM2 · Git · развёртывание и диагностика |
 
-</div>
+### GitHub в цифрах
 
-### 🤝 Open to Collaborations
+[![Проверяемая статистика публичных репозиториев](./assets/public-stats.svg)](https://github.com/Sh-Nasib?tab=repositories)
 
+Карточка обновляется ежедневно из GitHub API. В ней учтены только мои **публичные репозитории**, без форков и архивов; звёзды суммируются по этим репозиториям.
+
+[**Вся активность и календарь contributions →**](https://github.com/Sh-Nasib?tab=overview)
+
+Работа в закрытых репозиториях не входит в цифры карточки. В календаре GitHub она отображается анонимно, если включён показ private contributions.
