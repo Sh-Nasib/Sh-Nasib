@@ -1,6 +1,6 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.svg" />
-  <img src="./assets/header-light.svg" width="100%" alt="Абстрактная геометрическая лента" />
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.svg?v=motion-1" />
+  <img src="./assets/header-light.svg?v=motion-1" width="100%" alt="Абстрактная геометрическая лента" />
 </picture>
 
 <p align="center">
