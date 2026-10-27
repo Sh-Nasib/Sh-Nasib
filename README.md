@@ -1,8 +1,8 @@
-<p align="center">Русский &nbsp;·&nbsp; <a href="./README.en.md">English</a></p>
+<p align="center"><a href="./README.ru.md">Русский</a> &nbsp;·&nbsp; English</p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark-motion.svg" />
-  <img src="./assets/header-light-motion.svg" width="100%" alt="Абстрактная геометрическая лента" />
+  <img src="./assets/header-light-motion.svg" width="100%" alt="Abstract geometric ribbon" />
 </picture>
 
 <p align="center">
@@ -11,18 +11,18 @@
   <a href="https://github.com/Sh-Nasib?tab=repositories"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/github-dark.svg" /><img src="./assets/github-light.svg" width="104" height="42" alt="GitHub" /></picture></a>
 </p>
 
-### Привет, я Шахин
+### Hi, I'm Shahin
 
-Работаю с Python, TypeScript и PostgreSQL. Проектирую API и модели данных, разрабатываю интерфейсы, настраиваю интеграции и развёртывание. В аналитике использую SQL, статистические методы и визуализацию данных.
+I work with Python, TypeScript and PostgreSQL. I design APIs and data models, build interfaces, and configure integrations and deployment. For analytics, I use SQL, statistical methods and data visualization.
 
-### Стек и инженерные навыки
+### Technology and engineering skills
 
-| Направление | Навыки и инструменты |
+| Area | Skills and tools |
 | :--- | :--- |
-| **Программирование** | Алгоритмы и структуры данных, декомпозиция, асинхронность, обработка ошибок.<br>Python · TypeScript · JavaScript |
-| **Серверная разработка** | HTTP, REST API, валидация, аутентификация и ролевой доступ.<br>FastAPI · Node.js |
-| **Базы данных** | Реляционное моделирование, нормализация, транзакции, индексы, оптимизация SQL-запросов.<br>PostgreSQL · SQL |
-| **Интерфейсы** | Компонентная архитектура, управление состоянием, формы, адаптивная вёрстка.<br>React · Next.js · Tailwind CSS · HTML · CSS |
-| **Аналитика** | Очистка и проверка данных, описательная статистика, проверка гипотез, A/B-тесты, визуализация.<br>pandas · NumPy · Jupyter · Tableau |
-| **Интеграции** | Обмен данными через API, преобразование форматов, автоматизация загрузок и проверка согласованности данных.<br>1С · Excel · Python |
-| **Эксплуатация** | Linux, настройка веб-сервера, управление процессами, диагностика по логам, развёртывание и откат изменений.<br>Nginx · PM2 · Git |
+| **Programming** | Algorithms and data structures, decomposition, asynchronous programming, error handling.<br>Python · TypeScript · JavaScript |
+| **Backend** | HTTP, REST APIs, validation, authentication and role-based access.<br>FastAPI · Node.js |
+| **Databases** | Relational data modeling, normalization, transactions, indexing and SQL query optimization.<br>PostgreSQL · SQL |
+| **Frontend** | Component architecture, state management, forms and responsive layouts.<br>React · Next.js · Tailwind CSS · HTML · CSS |
+| **Analytics** | Data cleaning and validation, descriptive statistics, hypothesis testing, A/B testing and visualization.<br>pandas · NumPy · Jupyter · Tableau |
+| **Integrations** | API data exchange, format conversion, automated imports and data consistency checks.<br>1C · Excel · Python |
+| **Operations** | Linux, web server configuration, process management, log-based diagnostics, deployment and rollback.<br>Nginx · PM2 · Git |
