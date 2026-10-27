@@ -1,4 +1,4 @@
-<p align="center"><a href="./README.ru.md">Русский</a> &nbsp;·&nbsp; English</p>
+<p align="center"><strong>English</strong> &nbsp;·&nbsp; <a href="./README.ru.md">Русский</a></p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark-flow.svg" />

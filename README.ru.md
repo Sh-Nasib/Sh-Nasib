@@ -1,4 +1,4 @@
-<p align="center">Русский &nbsp;·&nbsp; <a href="https://github.com/Sh-Nasib">English</a></p>
+<p align="center"><a href="https://github.com/Sh-Nasib">English</a> &nbsp;·&nbsp; <strong>Русский</strong></p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark-flow.svg" />
