@@ -1,8 +1,8 @@
 <p align="center"><a href="./README.ru.md">Русский</a> &nbsp;·&nbsp; English</p>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark-motion.svg" />
-  <img src="./assets/header-light-motion.svg" width="100%" alt="Abstract geometric ribbon" />
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark-flow.svg" />
+  <img src="./assets/header-light-flow.svg" width="100%" alt="Abstract geometric ribbon" />
 </picture>
 
 <p align="center">

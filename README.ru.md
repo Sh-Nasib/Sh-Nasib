@@ -1,8 +1,8 @@
 <p align="center">Русский &nbsp;·&nbsp; <a href="https://github.com/Sh-Nasib">English</a></p>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark-motion.svg" />
-  <img src="./assets/header-light-motion.svg" width="100%" alt="Абстрактная геометрическая лента" />
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark-flow.svg" />
+  <img src="./assets/header-light-flow.svg" width="100%" alt="Абстрактная геометрическая лента" />
 </picture>
 
 <p align="center">
