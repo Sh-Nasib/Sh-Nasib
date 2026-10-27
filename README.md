@@ -1,6 +1,8 @@
+<p align="center">Русский &nbsp;·&nbsp; <a href="./README.en.md">English</a></p>
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.svg?v=motion-1" />
-  <img src="./assets/header-light.svg?v=motion-1" width="100%" alt="Абстрактная геометрическая лента" />
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark-motion.svg" />
+  <img src="./assets/header-light-motion.svg" width="100%" alt="Абстрактная геометрическая лента" />
 </picture>
 
 <p align="center">
