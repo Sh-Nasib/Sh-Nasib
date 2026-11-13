@@ -6,8 +6,8 @@
 </picture>
 
 <p align="center">
-  <a href="https://t.me/sh1nasib"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/telegram-dark.svg" /><img src="./assets/telegram-light.svg" width="112" height="42" alt="Telegram" /></picture></a>
-  <a href="mailto:sh.mamedovich@yandex.ru"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/email-dark.svg" /><img src="./assets/email-light.svg" width="96" height="42" alt="Email" /></picture></a>
+  <a href=""><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/telegram-dark.svg" /><img src="./assets/telegram-light.svg" width="112" height="42" alt="Telegram" /></picture></a>
+  <a href=""><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/email-dark.svg" /><img src="./assets/email-light.svg" width="96" height="42" alt="Email" /></picture></a>
   <a href="https://github.com/Sh-Nasib?tab=repositories"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/github-dark.svg" /><img src="./assets/github-light.svg" width="104" height="42" alt="GitHub" /></picture></a>
 </p>
 
